@@ -3,8 +3,12 @@ layout: post
 title: this is a test
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+我大概是在帮忙张罗Z导的老丈人葬礼的时候，觉察到我酒量的极限的。因为晚饭吃得特别早，到晚上十一点多人家搬来两箱啤酒时，基本就是空腹了。也没什么下酒菜，对方灌得又猛，当时还没事。凌晨一点多散了后，因为要守夜嘛，也没地方睡，再让那夜风一吹，就感觉要坏事了。看看周围也没个可托付的人，想着先到Z导的车上眯一会吧。
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+坐到车里没多久，酒劲上来了，坐着躺着都觉得天旋地转，想吐。更要命的是，手一抖，车钥匙不知掉哪个旮旯缝了。没钥匙就解不了锁，门打不开，窗打不开，坐后排又探不到控制台，就算摸到控制台，以当时状态也不知道按哪个键。于是忍着不吐，心想这是导师的车呀，这他妈是凯迪拉克呀，这能随便吐吗？！
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+车内空气越来越稀薄，当时一个念头闪过：我这辈子不会给交待在这儿吧？那一种切切实实的恐惧感，现在想来都后怕。
+
+而后终于找到了车钥匙。车辆解锁了，也解锁了一项新技能：曾在凯迪拉克上吐过。
+
+然后给人家洗了大半夜车。
